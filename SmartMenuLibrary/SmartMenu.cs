@@ -108,5 +108,21 @@ namespace SmartMenuLibrary
 
             }
         }
+
+        public string GetTitle()
+        {
+            return titel;
+        }
+
+
+        public string GetDescription()
+        {
+            return explain;
+        }
+
+        public string[,] GetMenu()
+        {
+            return menu;
+        }
     }
 }
