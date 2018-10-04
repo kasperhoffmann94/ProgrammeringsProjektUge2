@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuLibrary", "SmartMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuTest", "SmartMenuTest\SmartMenuTest.csproj", "{ADDE55F7-8528-49E8-B332-AA40236539C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionLibrary", "FunctionLibrary\FunctionLibrary.csproj", "{DDFECB67-01E1-4F7E-85B2-A7D3BDB14BCA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{517097E5-6BAD-4D04-8E6E-2169234F4B5E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{0967E952-324B-4504-ABD6-0D3F1ADE0299}"
@@ -33,10 +31,6 @@ Global
 		{ADDE55F7-8528-49E8-B332-AA40236539C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADDE55F7-8528-49E8-B332-AA40236539C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADDE55F7-8528-49E8-B332-AA40236539C3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DDFECB67-01E1-4F7E-85B2-A7D3BDB14BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DDFECB67-01E1-4F7E-85B2-A7D3BDB14BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DDFECB67-01E1-4F7E-85B2-A7D3BDB14BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DDFECB67-01E1-4F7E-85B2-A7D3BDB14BCA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{517097E5-6BAD-4D04-8E6E-2169234F4B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{517097E5-6BAD-4D04-8E6E-2169234F4B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{517097E5-6BAD-4D04-8E6E-2169234F4B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU

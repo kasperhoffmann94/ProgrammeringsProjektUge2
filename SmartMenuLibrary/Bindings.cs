@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using FunctionLibrary;
 
 namespace SmartMenuLibrary
 {
@@ -17,11 +16,11 @@ namespace SmartMenuLibrary
             switch (id)
             {
                 case "this":
-                    Console.WriteLine(Functions.DoThis());
+                    //Console.WriteLine(Functions.DoThis());
                     break;
 
                 case "that":
-                    Console.WriteLine(Functions.DoThat());
+                   // Console.WriteLine(Functions.DoThat());
                     break;
 
                 case "something":
@@ -41,14 +40,14 @@ namespace SmartMenuLibrary
                             running = false;
                         }
                     }
-                    Console.WriteLine(Functions.DoSomething(temp));
+                   // Console.WriteLine(Functions.DoSomething(temp));
                     break;
 
 
 
 
                 case "another":
-                    Console.WriteLine(Functions.GetTheAnswerToLifeTheUniverseAndEverything() + "\n");
+                   // Console.WriteLine(Functions.GetTheAnswerToLifeTheUniverseAndEverything() + "\n");
                     break;
 
                 default:
