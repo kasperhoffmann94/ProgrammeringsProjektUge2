@@ -49,7 +49,7 @@ namespace SmartMenuLibrary
 
 
         }
-        public void Activate()
+        public void Activate(IBindings bindings)
         {
 
             int choice = 0;
@@ -82,7 +82,7 @@ namespace SmartMenuLibrary
                     //kald bindings klassen
                     if (choice < menu.GetLength(0))
                     {
-                        Bindings.Call(menu[choice, 1]);
+                        bindings.Call(menu[choice, 1]);
                     }
                     else
                     {
