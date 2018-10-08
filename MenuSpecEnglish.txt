@@ -1,6 +1,0 @@
-Calculations algoritms
-Press number for menupoint or 0 to exit
-Calculate rectacle;this
-Load number of numbers;that
-Calculate polyline;something
-Meaning of life?;another

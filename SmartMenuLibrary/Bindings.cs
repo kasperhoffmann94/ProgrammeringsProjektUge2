@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartMenuLibrary
 {
-    class Bindings
+    public class Bindings
     {
         public static void Call(string id)
         {
